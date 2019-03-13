@@ -1,0 +1,65 @@
+body {
+    background-color: #000000;
+    font-family: 'Anonymous Pro', monospace;
+    max-width: 1200px;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    color: #FFFFFF;
+    float: left;
+}
+
+#nav {
+    margin: 25px 15px;
+}
+nav {
+    color: #FFFFFF;
+    float: right;
+    position: relative;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+nav a {
+    margin: 0 5px;
+}
+
+#work {
+    height: 400px;
+}
+
+
+#social {
+    float:left;
+    line-height: 22px;
+}
+
+#social img {
+    width: 20px;
+}
+
+#noun {
+    margin-bottom: 5px;
+}
+
+#footer-contact {
+    float: right;
+    line-height: 22px;
+}
